@@ -8,5 +8,8 @@ cd "your_directory_folder"
 pip install requirements
 ```
 Then to make it automate, you need to download chromedriver [here](https://chromedriver.chromium.org/downloads/version-selection).
-Next, you just need to set chromedriver to set your chromedriver inside User variable inside Environment variable. 
+Next, you just need to set chromedriver to set your chromedriver inside User variable inside Environment variable.
+![Environment variable1](https://cdn.discordapp.com/attachments/621282659091611659/1162705098863030394/image.png)
+![Environment variable2](https://cdn.discordapp.com/attachments/621282659091611659/1162705423770603610/image.png)
+![Environment variable3](https://cdn.discordapp.com/attachments/621282659091611659/1162705527353135104/image.png)
 And the last thing, you need to setup it by using Task Scheduler. 
