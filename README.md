@@ -12,4 +12,5 @@ Next, you just need to set chromedriver to set your chromedriver inside User var
 ![Environment variable1](https://cdn.discordapp.com/attachments/621282659091611659/1162705098863030394/image.png)
 ![Environment variable2](https://cdn.discordapp.com/attachments/621282659091611659/1162705423770603610/image.png)
 ![Environment variable3](https://cdn.discordapp.com/attachments/621282659091611659/1162705527353135104/image.png)
-And the last thing, you need to setup it by using Task Scheduler. 
+
+And the last thing, you need to setup it by using Task Scheduler to make it run automate. 
